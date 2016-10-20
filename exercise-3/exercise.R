@@ -3,8 +3,6 @@
 
 
 # Install devtools package: allows installations from GitHub
-install.packages('devtools')
-install.packages('dplyr')
 
 # Install "fueleconomy" package from GitHub
 devtools::install_github("hadley/fueleconomy")
